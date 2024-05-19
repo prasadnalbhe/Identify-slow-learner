@@ -1,0 +1,342 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Comprehensive Student Assessment</title>
+    <link rel="stylesheet"    type="text/css" href="style.css">
+    <style>
+        body {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background: #8a8d96;
+    font-weight: 600;
+    font-size: 1.3rem;
+    color: white;
+    margin: 0;
+    padding: 20px;
+}
+
+.container {
+    background: #13121a;
+    margin: auto;
+    padding: 20px;
+    width: 80%;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+}
+input[type=radio]{
+    display: inline-flex;
+    margin-right: 1rem;
+}
+h2 {
+    /* color: #2c3e50; */
+    text-align: center;
+}
+
+.question {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 20px;
+    margin-right: 10px;
+}
+
+label {
+    display: block;
+    margin: 5px 0;
+}
+p{
+    text-align: justify;
+    font-size: 1.4rem;
+}
+.submit-btn {
+    background-color: #3498db;
+    color: white;
+    border: none;
+    width: 96%;
+    padding: 10px 20px;
+    font-size: 20px;
+    font-weight: 700;
+    cursor: pointer;
+    border-radius: 5px;
+    margin-top: 20px;
+}
+
+.submit-btn:hover {
+    background-color: #2980b9;
+}
+
+#timer {
+    font-size: 18px;
+    text-align: center;
+    margin-bottom: 10px;
+}
+.opt{
+    display: flex;
+    flex-direction: column;
+}
+textarea {
+    width: 95%;
+    padding: 10px;
+    margin-top: 5px;
+    border-radius: 10px;
+    border: 1px solid #ccc;
+    resize: vertical;
+}
+
+ol {
+    margin-left: 20px;
+}
+.lb{
+    display: flex;
+}
+    </style>
+</head>
+<body>
+<div class="container">
+    <h2>Comprehensive Student Assessment</h2>
+    <div id="timer">Time Remaining: <span id="countdown"></span></div>
+    <form id="examForm" style="margin-left: 60px;">
+        <!-- Math Questions -->
+        <div class="question">
+       <!-- Math Questions -->
+       <div class="question">
+        <h3>Math Questions</h3>
+        <p>&#x2022 Easy Level</p>
+
+        <p>1. What is 7 + 5?</p>
+        <div class="opt">
+
+            <div class="lb"><input type="radio" id="math1-11" name="math1" value="0"><label for="math1-11">11</label></div>
+            <div class="lb"><input type="radio" id="math1-12" name="math1" value="2"><label for="math1-12">12</label></div>
+            <div class="lb"><input type="radio" id="math1-13" name="math1" value="0"><label for="math1-13">13</label></div>
+            <div class="lb"><input type="radio" id="math1-14" name="math1" value="0"><label for="math1-14">14</label></div>
+        </div>
+
+        <p>2. Which number is the smallest?</p>
+        <div class="opt">
+
+            <div class="lb"><input type="radio" id="math2-12" name="math2" value="0"><label for="math2-12">12</label></div>
+            <div class="lb"><input type="radio" id="math2-25" name="math2" value="0"><label for="math2-25">25</label></div>
+            <div class="lb"><input type="radio" id="math2-10" name="math2" value="0"><label for="math2-10">10</label></div>
+            <div class="lb"><input type="radio" id="math2-8" name="math2" value="4"><label for="math2-8">8</label></div>
+        </div>
+
+        <p>3. How many sides does a triangle have?</p>
+        <div class="opt">
+
+            <div class="lb"><input type="radio" id="math3-3" name="math3" value="1"><label for="math3-3">3</label></div>
+            <div class="lb"><input type="radio" id="math3-4" name="math3" value="0"><label for="math3-4">4</label></div>
+            <div class="lb"><input type="radio" id="math3-5" name="math3" value="0"><label for="math3-5">5</label></div>
+            <div class="lb"><input type="radio" id="math3-6" name="math3" value="0"><label for="math3-6">6</label></div>
+        </div>
+
+        <p>4. What is 10 - 4 = ?</p>
+        <div class="opt">
+
+            <div class="lb"><input type="radio" id="math4-6" name="math4" value="1"><label for="math4-6">6</label></div>
+            <div class="lb"><input type="radio" id="math4-7" name="math4" value="0"><label for="math4-7">7</label></div>
+            <div class="lb"><input type="radio" id="math4-5" name="math4" value="0"><label for="math4-5">5</label></div>
+            <div class="lb"><input type="radio" id="math4-8" name="math4" value="0"><label for="math4-8">8</label></div>
+        </div>
+
+        <p>5. What is half of 14?</p>
+        <div class="opt">
+
+            <div class="lb"><input type="radio" id="math5-5" name="math5" value="0"><label for="math5-5">5</label></div>
+            <div class="lb"><input type="radio" id="math5-7" name="math5" value="2"><label for="math5-7">7</label></div>
+            <div class="lb"><input type="radio" id="math5-6" name="math5" value="0"><label for="math5-6">6</label></div>
+            <div class="lb"><input type="radio" id="math5-8" name="math5" value="0"><label for="math5-8">8</label></div>
+        </div>
+
+        <!-- &#x2022 Moderate Level -->
+        <p>&#x2022  Moderate Level</p>
+        <div class="opt">
+
+            <p>6. If you have 3 apples and you buy 4 more, how many apples do you have in total?</p>
+            <div class="lb"><input type="radio" id="math6-5" name="math6" value="0"><label for="math6-5">5</label></div>
+            <div class="lb"><input type="radio" id="math6-6" name="math6" value="0"><label for="math6-6">6</label></div>
+            <div class="lb"><input type="radio" id="math6-7" name="math6" value="3"><label for="math6-7">7</label></div>
+            <div class="lb"><input type="radio" id="math6-8" name="math6" value="0"><label for="math6-8">8</label></div>
+        </div>
+
+        <p>7. A rectangle has a length of 8 cm and a width of 3 cm. What is its area?</p>
+        <div class="opt">
+
+            <div class="lb"><input type="radio" id="math7-24" name="math7" value="1"><label for="math7-24">24 cm²</label></div>
+            <div class="lb"><input type="radio" id="math7-25" name="math7" value="0"><label for="math7-25">25 cm²</label></div>
+            <div class="lb"><input type="radio" id="math7-11" name="math7" value="0"><label for="math7-11">11 cm²</label></div>
+            <div class="lb"><input type="radio" id="math7-26" name="math7" value="0"><label for="math7-26">26 cm²</label></div>
+        </div>
+
+        <p>8. What is 7 times 8?</p>
+        <div class="opt">
+
+            <div class="lb"><input type="radio" id="math8-54" name="math8" value="0"><label for="math8-54">54</label></div>
+            <div class="lb"><input type="radio" id="math8-56" name="math8" value="2"><label for="math8-56">56</label></div>
+            <div class="lb"><input type="radio" id="math8-48" name="math8" value="0"><label for="math8-48">48</label></div>
+            <div class="lb"><input type="radio" id="math8-58" name="math8" value="0"><label for="math8-58">58</label></div>
+        </div>
+
+        <p>9. If a car travels 40 kilometers in one hour, how far will it travel in 4 hours?</p>
+        <div class="opt">
+
+            <div class="lb"><input type="radio" id="math9-120" name="math9" value="0"><label for="math9-120">120 km</label></div>
+            <div class="lb"><input type="radio" id="math9-160" name="math9" value="2"><label for="math9-160">160 km</label></div>
+            <div class="lb"><input type="radio" id="math9-200" name="math9" value="0"><label for="math9-200">200 km</label></div>
+            <div class="lb"><input type="radio" id="math9-180" name="math9" value="0"><label for="math9-180">180 km</label></div>
+        </div>
+
+        <p>10. What is the next number in the sequence: 2, 4, 6, 8, ...?</p>
+        <div class="opt">
+
+            <div class="lb"><input type="radio" id="math10-10" name="math10" value="1"><label for="math10-10">10</label></div>
+            <div class="lb"><input type="radio" id="math10-11" name="math10" value="0"><label for="math10-11">11</label></div>
+            <div class="lb"><input type="radio" id="math10-12" name="math10" value="0"><label for="math10-12">12</label></div>
+            <div class="lb"><input type="radio" id="math10-9" name="math10" value="0"><label for="math10-9">9</label></div>
+        </div>
+
+        <!-- Hard Level -->
+        <p>&#x2022 Hard Level</p>
+        <p>11. A train travels 60 miles in 2 hours. What is the train's average speed?</p>
+        <div class="lb"><input type="radio" id="math11-30" name="math11" value="1"><label for="math11-30">30 mph</label></div>
+        <div class="lb"><input type="radio" id="math11-40" name="math11" value="0"><label for="math11-40">40 mph</label></div>
+        <div class="lb"><input type="radio" id="math11-50" name="math11" value="0"><label for="math11-50">50 mph</label></div>
+        <div class="lb"><input type="radio" id="math11-60" name="math11" value="0"><label for="math11-60">60 mph</label></div>
+
+        <p>12. Solve for x: 3x + 5 = 20</p>
+        <div class="lb"><input type="radio" id="math12-3" name="math12" value="0"><label for="math12-3">x = 3</label></div>
+        <div class="lb"><input type="radio" id="math12-4" name="math12" value="0"><label for="math12-4">x = 4</label></div>
+        <div class="lb"><input type="radio" id="math12-5" name="math12" value="3"><label for="math12-5">x = 5</label></div>
+        <div class="lb"><input type="radio" id="math12-6" name="math12" value="0"><label for="math12-6">x = 6</label></div>
+
+        <p>13. A rectangular box has a length of 10 cm, width of 5 cm, and height of 2 cm. What is the volume?</p>
+        <div class="lb"><input type="radio" id="math13-50" name="math13" value="0"><label for="math13-50">50 cm³</label></div>
+        <div class="lb"><input type="radio" id="math13-100" name="math13" value="2"><label for="math13-100">100 cm³</label></div>
+        <div class="lb"><input type="radio" id="math13-150" name="math13" value="0"><label for="math13-150">150 cm³</label></div>
+        <div class="lb"><input type="radio" id="math13-200" name="math13" value="0"><label for="math13-200">200 cm³</label></div>
+
+        <p>14. What is 15% of 200?</p>
+        <div class="lb"><input type="radio" id="math14-30" name="math14" value="1"><label for="math14-30">30</label></div>
+        <div class="lb"><input type="radio" id="math14-25" name="math14" value="0"><label for="math14-25">25</label></div>
+        <div class="lb"><input type="radio" id="math14-35" name="math14" value="0"><label for="math14-35">35</label></div>
+        <div class="lb"><input type="radio" id="math14-40" name="math14" value="0"><label for="math14-40">40</label></div>
+
+        <p>15. Calculate the area of a circle with a radius of 3 cm (use π = 3.14).</p>
+        <div class="lb"><input type="radio" id="math15-28.26" name="math15" value="1"><label for="math15-28.26">28.26 cm²</label></div>
+        <div class="lb"><input type="radio" id="math15-31.4" name="math15" value="0"><label for="math15-31.4">31.4 cm²</label></div>
+        <div class="lb"><input type="radio" id="math15-9.42" name="math15" value="0"><label for="math15-9.42">9.42 cm²</label></div>
+        <div class="lb"><input type="radio" id="math15-6.28" name="math15" value="0"><label for="math15-6.28">6.28 cm²</label></div>
+    </div>
+
+    <!-- Reading Questions -->
+    <div class="question">
+       <!-- Reading Questions -->
+        <h3>Reading Questions</h3>
+        <!-- Easy Level -->
+        <p>&#x2022 Easy Level</p>
+        <p>1. Passage: "Cats are popular pets that are known for their independence. They often do not require as much attention as dogs and are typically more reserved. Cats are also known for their playful and curious nature."</p>
+        <p>What is the main topic of the passage?</p>
+        <div class="lb"><input type="radio" id="reading1-dogs" name="reading1" value="0"><label for="reading1-dogs">Dogs</label></div>
+        <div class="lb"><input type="radio" id="reading1-cats" name="reading1" value="2"><label for="reading1-cats">Cats</label></div>
+        <div class="lb"><input type="radio" id="reading1-pets" name="reading1" value="0"><label for="reading1-pets">Pets</label></div>
+        <div class="lb"><input type="radio" id="reading1-nature" name="reading1" value="0"><label for="reading1-nature">Nature</label></div>
+
+        <p>Which word best describes cats, according to the passage?</p>
+        <div class="lb"><input type="radio" id="reading2-independent" name="reading2" value="1"><label for="reading2-independent">Independent</label></div>
+        <div class="lb"><input type="radio" id="reading2-noisy" name="reading2" value="0"><label for="reading2-noisy">Noisy</label></div>
+        <div class="lb"><input type="radio" id="reading2-needy" name="reading2" value="0"><label for="reading2-needy">Needy</label></div>
+        <div class="lb"><input type="radio" id="reading2-lazy" name="reading2" value="0"><label for="reading2-lazy">Lazy</label></div>
+
+        <!-- &#x2022 Moderate Level -->
+        <p>&#x2022 Moderate Level</p>
+        <p>3. Passage: "The Earth's atmosphere is made up of several layers. The layer closest to the surface is called the troposphere, which is where all weather takes place. It contains about 75% of the atmosphere's mass."</p>
+        <p>Where does all weather occur, according to the passage?</p>
+        <div class="lb"><input type="radio" id="reading3-stratosphere" name="reading3" value="0"><label for="reading3-stratosphere">Stratosphere</label></div>
+        <div class="lb"><input type="radio" id="reading3-troposphere" name="reading3" value="2"><label for="reading3-troposphere">Troposphere</label></div>
+        <div class="lb"><input type="radio" id="reading3-mesosphere" name="reading3" value="0"><label for="reading3-mesosphere">Mesosphere</label></div>
+        <div class="lb"><input type="radio" id="reading3-exosphere" name="reading3" value="0"><label for="reading3-exosphere">Exosphere</label></div>
+
+        <p>What percentage of the atmosphere's mass is in the troposphere?</p>
+        <div class="lb"><input type="radio" id="reading4-75" name="reading4" value="1"><label for="reading4-75">75%</label></div>
+        <div class="lb"><input type="radio" id="reading4-50" name="reading4" value="0"><label for="reading4-50">50%</label></div>
+        <div class="lb"><input type="radio" id="reading4-25" name="reading4" value="0"><label for="reading4-25">25%</label></div>
+        <div class="lb"><input type="radio" id="reading4-95" name="reading4" value="0"><label for="reading4-95">95%</label></div>
+
+        <!-- Hard Level -->
+        <p>&#x2022 Hard Level</p>
+        <p>5. Passage: "Renewable energy sources, such as wind and solar power, play a crucial role in reducing pollution and conserving fossil fuels. Unlike traditional energy sources, they provide a clean and virtually inexhaustible supply of power."</p>
+        <p>What is the primary benefit of renewable energy mentioned in the passage?</p>
+        <div class="lb"><input type="radio" id="reading5-inexpensive" name="reading5" value="0"><label for="reading5-inexpensive">It is inexpensive.</label></div>
+        <div class="lb"><input type="radio" id="reading5-reduces-pollution" name="reading5" value="2"><label for="reading5-reduces-pollution">It reduces pollution.</label></div>
+        <div class="lb"><input type="radio" id="reading5-uses-fossil-fuels" name="reading5" value="0"><label for="reading5-uses-fossil-fuels">It uses fossil fuels.</label></div>
+        <div class="lb"><input type="radio" id="reading5-limited-in-supply" name="reading5" value="0"><label for="reading5-limited-in-supply">It is limited in supply.</label></div>
+
+        <p>Which of the following is NOT mentioned as a characteristic of renewable energy?</p>
+        <div class="lb"><input type="radio" id="reading6-clean" name="reading6" value="0"><label for="reading6-clean">Clean</label></div>
+        <div class="lb"><input type="radio" id="reading6-inexhaustible" name="reading6" value="0"><label for="reading6-inexhaustible">Inexhaustible</label></div>
+        <div class="lb"><input type="radio" id="reading6-polluting" name="reading6" value="3"><label for="reading6-polluting">Polluting</label></div>
+        <div class="lb"><input type="radio" id="reading6-traditional" name="reading6" value="0"><label for="reading6-traditional">Traditional</label></div>
+    </div>
+
+    <!-- Writing Exam Question -->
+    <div class="question">
+        <h3>Writing Exam</h3>
+        <p>Grammar and Sentence Correction</p>
+        <p>Instructions: Correct the following sentence:</p>
+        <p>"He don't know how to read that book."</p>
+        <p>Corrected Sentence:</p>
+        <textarea id="writing1" name="writing1" rows="2" cols="20"></textarea>
+
+        <p>Instructions: Correct the following sentence:</p>
+        <p>"She goes to school everyday."</p>
+        <p>Corrected Sentence:</p>
+        <textarea id="writing2" name="writing2" rows="2" cols="20"></textarea>
+
+        <p>Paragraph Organization</p>
+        <p>Instructions: Arrange the following sentences to form a coherent paragraph.</p>
+        <p>Sentence Options:</p>
+        <ol>
+            <li>Finally, he reached the top and saw the sunrise.</li>
+            <li>The hiker started his journey early in the morning when it was still dark.</li>
+            <li>It was a challenging climb, but he kept going.</li>
+            <li>He packed his bag the night before, excited for the climb.</li>
+        </ol>
+        <p>Arranged Paragraph ( Write order ):</p>
+        <textarea id="writing3" name="writing3" rows="4" cols="30"></textarea>
+
+        <p>Find the Error</p>
+        <p>Instructions: Identify and correct the error in the following sentence:</p>
+        <p>"The cat's are sleeping on it's bed."</p>
+        <p>Corrected Sentence:</p>
+        <textarea id="writing4" name="writing4" rows="2" cols="30"></textarea>
+        </div>
+
+        <button type="submit" class="submit-btn">Submit Exam</button>
+    </form>
+    <div id="result" style="margin-top: 20px;"></div>
+</div>
+
+<script src="../static/ajax.js"></script>
+<script src="../static/script.js"></script>
+
+<script>
+    // Set the countdown time in seconds
+    var timeLimit = 900; // 15 minutes
+
+    // Update the countdown display every second
+    var countdownElement = document.getElementById('countdown');
+    var countdown = setInterval(function() {
+        var minutes = Math.floor(timeLimit / 60);
+        var seconds = timeLimit % 60;
+        countdownElement.innerHTML = (minutes < 10 ? "0" : "") + minutes + ":" + (seconds < 10 ? "0" : "") + seconds;
+        timeLimit--;
+        if (timeLimit < 0) {
+            clearInterval(countdown);
+            document.getElementById('examForm').submit(); // Automatically submit the form when time is up
+        }
+    }, 1000);
+</script>
+</body>
+</html>
+

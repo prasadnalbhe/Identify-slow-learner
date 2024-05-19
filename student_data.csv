@@ -1,0 +1,1001 @@
+gender	race/ethnicity	parental level of education	lunch	test preparation course	math score	reading score	writing score	is_slow_learner
+male	group A	master's degree	free/reduced	none	58	47	43	1
+male	group E	some college	standard	none	41	57	59	1
+male	group E	some high school	free/reduced	none	87	65	30	0
+male	group D	associate's degree	free/reduced	none	57	73	43	0
+male	group D	high school	free/reduced	completed	63	35	88	0
+male	group D	high school	free/reduced	completed	54	38	35	1
+male	group C	high school	standard	none	78	65	88	0
+female	group B	associate's degree	free/reduced	none	64	39	51	1
+male	group B	some college	free/reduced	completed	58	71	37	0
+male	group A	associate's degree	free/reduced	completed	38	57	70	0
+male	group D	some college	free/reduced	none	63	47	61	1
+female	group E	some college	free/reduced	completed	58	47	95	0
+female	group A	high school	standard	none	50	84	38	0
+female	group D	bachelor's degree	free/reduced	completed	100	31	44	0
+female	group C	high school	free/reduced	completed	50	88	30	0
+female	group E	some high school	standard	completed	94	55	49	0
+female	group B	bachelor's degree	standard	completed	92	32	44	0
+female	group C	some high school	standard	none	40	40	92	0
+male	group E	some high school	standard	completed	100	51	63	0
+female	group B	bachelor's degree	standard	completed	81	77	86	0
+female	group A	some high school	standard	none	73	32	100	0
+male	group E	some high school	standard	none	37	59	38	1
+male	group C	high school	standard	completed	92	57	99	0
+male	group E	bachelor's degree	free/reduced	none	90	82	54	0
+male	group A	master's degree	free/reduced	completed	84	82	89	0
+male	group A	high school	free/reduced	completed	43	61	54	1
+male	group E	some college	standard	completed	53	65	89	0
+male	group A	some college	standard	none	99	31	41	0
+male	group B	some college	free/reduced	completed	57	81	37	0
+male	group D	high school	free/reduced	completed	88	66	84	0
+female	group B	some high school	free/reduced	none	37	99	37	0
+female	group A	high school	free/reduced	none	37	95	40	0
+male	group A	bachelor's degree	standard	none	81	45	61	0
+male	group E	high school	free/reduced	completed	63	56	70	0
+male	group C	some college	standard	completed	88	70	39	0
+male	group D	bachelor's degree	standard	none	98	57	94	0
+female	group B	associate's degree	standard	none	77	66	50	0
+female	group E	master's degree	free/reduced	none	100	68	43	0
+male	group C	high school	standard	none	64	66	56	1
+female	group B	master's degree	free/reduced	completed	62	36	41	1
+female	group C	high school	standard	completed	46	63	50	1
+female	group E	master's degree	free/reduced	none	44	39	49	1
+male	group C	bachelor's degree	standard	completed	46	35	69	1
+female	group A	associate's degree	standard	none	43	75	82	0
+male	group B	some high school	standard	completed	33	52	72	0
+female	group B	associate's degree	standard	none	78	34	90	0
+male	group B	some college	free/reduced	completed	59	58	33	1
+male	group D	associate's degree	free/reduced	none	65	74	95	0
+female	group E	associate's degree	standard	none	63	52	63	1
+male	group A	bachelor's degree	free/reduced	completed	70	85	95	0
+male	group D	bachelor's degree	standard	completed	35	85	30	0
+male	group C	some college	standard	completed	70	45	68	0
+female	group D	associate's degree	free/reduced	completed	100	46	54	0
+female	group D	master's degree	standard	completed	81	100	30	0
+female	group C	some high school	free/reduced	completed	89	86	86	0
+male	group E	some college	standard	none	66	95	72	0
+male	group B	master's degree	free/reduced	none	55	48	33	1
+male	group B	some college	standard	completed	83	54	79	0
+female	group D	some high school	standard	none	43	84	58	0
+male	group E	some college	standard	none	45	88	47	0
+female	group E	bachelor's degree	free/reduced	completed	94	84	100	0
+female	group B	master's degree	free/reduced	completed	63	61	65	1
+female	group B	associate's degree	free/reduced	none	66	60	64	1
+female	group C	bachelor's degree	standard	none	49	59	79	0
+male	group B	high school	free/reduced	completed	72	99	89	0
+female	group A	some high school	free/reduced	completed	32	78	91	0
+male	group C	associate's degree	free/reduced	completed	98	99	58	0
+female	group B	associate's degree	free/reduced	completed	33	79	73	0
+female	group B	some college	standard	none	80	33	40	0
+female	group B	some college	standard	none	63	78	71	0
+male	group D	associate's degree	free/reduced	completed	65	83	62	0
+male	group D	high school	standard	completed	58	38	35	1
+male	group B	some high school	standard	none	60	46	90	0
+male	group E	some high school	free/reduced	completed	77	51	44	0
+male	group C	high school	standard	completed	78	80	55	0
+male	group E	master's degree	standard	none	68	45	35	1
+female	group E	some college	free/reduced	none	94	73	31	0
+female	group D	high school	free/reduced	completed	88	49	85	0
+male	group E	master's degree	free/reduced	completed	89	85	64	0
+female	group B	high school	free/reduced	completed	61	89	78	0
+female	group A	some college	free/reduced	none	92	57	75	0
+female	group C	associate's degree	free/reduced	none	96	54	40	0
+male	group D	some college	standard	completed	92	87	32	0
+male	group C	some high school	free/reduced	none	69	77	90	0
+female	group D	master's degree	free/reduced	completed	88	64	69	0
+female	group B	high school	standard	completed	45	98	53	0
+male	group B	master's degree	free/reduced	completed	97	66	42	0
+male	group C	some high school	free/reduced	none	68	31	98	0
+male	group C	high school	standard	completed	46	92	43	0
+male	group E	associate's degree	free/reduced	completed	86	73	53	0
+male	group C	some college	standard	none	81	92	39	0
+male	group B	some high school	free/reduced	none	61	45	83	0
+male	group E	some college	free/reduced	completed	68	84	69	0
+male	group E	master's degree	standard	none	57	63	40	1
+male	group B	some high school	standard	none	30	82	87	0
+female	group C	high school	standard	completed	66	88	39	0
+male	group C	master's degree	standard	completed	44	99	58	0
+male	group C	some high school	standard	none	51	69	66	1
+female	group A	some college	free/reduced	completed	64	94	99	0
+female	group D	high school	standard	completed	71	62	33	0
+male	group B	master's degree	standard	completed	35	52	90	0
+female	group C	some high school	free/reduced	completed	41	90	74	0
+female	group C	associate's degree	standard	none	72	82	93	0
+female	group D	bachelor's degree	standard	completed	41	70	62	0
+female	group A	some college	standard	completed	82	36	54	0
+female	group E	some college	free/reduced	none	56	64	100	0
+male	group C	some college	free/reduced	none	33	60	50	1
+female	group E	high school	free/reduced	none	58	44	89	0
+male	group B	some college	free/reduced	completed	83	91	90	0
+male	group D	bachelor's degree	standard	completed	54	95	47	0
+male	group C	some college	free/reduced	completed	30	66	68	1
+female	group B	some college	free/reduced	completed	72	100	99	0
+female	group D	associate's degree	standard	none	79	59	82	0
+male	group C	master's degree	free/reduced	completed	79	49	93	0
+male	group B	bachelor's degree	free/reduced	none	86	42	97	0
+female	group A	master's degree	standard	completed	49	39	90	0
+female	group C	bachelor's degree	free/reduced	none	72	98	78	0
+female	group D	bachelor's degree	standard	none	60	66	59	1
+male	group D	high school	standard	completed	51	68	33	1
+male	group C	high school	free/reduced	completed	77	85	48	0
+male	group E	some college	standard	none	52	40	78	0
+male	group D	bachelor's degree	standard	none	89	62	88	0
+female	group A	some college	free/reduced	none	39	86	74	0
+female	group D	master's degree	free/reduced	completed	68	55	79	0
+female	group A	some high school	free/reduced	completed	67	67	32	1
+female	group C	high school	standard	completed	66	59	75	0
+male	group B	bachelor's degree	free/reduced	none	42	35	69	1
+female	group A	bachelor's degree	free/reduced	none	41	67	71	0
+female	group B	some high school	standard	completed	97	94	64	0
+male	group C	some college	free/reduced	completed	44	89	39	0
+male	group B	master's degree	free/reduced	completed	41	80	31	0
+female	group E	high school	free/reduced	completed	63	78	77	0
+male	group B	some college	standard	completed	58	38	89	0
+female	group D	high school	standard	none	34	68	93	0
+male	group A	some high school	standard	completed	88	77	99	0
+female	group E	master's degree	standard	completed	42	92	82	0
+female	group A	master's degree	free/reduced	none	86	86	60	0
+female	group A	master's degree	free/reduced	completed	37	80	65	0
+male	group A	some college	standard	none	32	36	72	0
+male	group B	bachelor's degree	standard	none	100	56	57	0
+male	group C	some high school	standard	completed	48	46	99	0
+female	group B	high school	standard	none	31	75	60	0
+female	group A	some high school	free/reduced	none	46	83	97	0
+male	group A	some college	free/reduced	completed	95	43	87	0
+male	group E	high school	free/reduced	completed	33	37	91	0
+female	group D	master's degree	standard	completed	86	39	40	0
+female	group E	some high school	standard	none	65	100	71	0
+female	group E	bachelor's degree	free/reduced	completed	94	85	42	0
+male	group E	master's degree	standard	completed	87	59	82	0
+female	group D	some college	free/reduced	none	70	84	70	0
+female	group C	some high school	free/reduced	none	41	40	41	1
+female	group A	master's degree	free/reduced	none	37	72	45	0
+female	group C	master's degree	free/reduced	none	66	69	75	0
+male	group E	bachelor's degree	standard	none	91	58	43	0
+female	group E	associate's degree	standard	completed	58	84	33	0
+female	group A	some high school	free/reduced	completed	73	74	30	0
+male	group B	bachelor's degree	free/reduced	none	48	33	41	1
+male	group D	some college	free/reduced	completed	50	77	69	0
+female	group E	bachelor's degree	standard	none	49	50	36	1
+male	group C	some college	free/reduced	completed	86	83	64	0
+male	group E	high school	free/reduced	completed	44	66	92	0
+female	group A	some high school	free/reduced	none	30	56	68	1
+male	group B	associate's degree	free/reduced	completed	45	30	93	0
+female	group B	some high school	free/reduced	none	94	75	39	0
+female	group A	some college	standard	completed	39	70	84	0
+female	group D	associate's degree	standard	completed	32	71	51	0
+female	group C	high school	free/reduced	none	61	85	81	0
+male	group D	associate's degree	free/reduced	none	72	51	39	0
+male	group E	bachelor's degree	standard	completed	74	48	60	0
+male	group B	associate's degree	standard	none	49	39	52	1
+female	group D	bachelor's degree	free/reduced	completed	70	49	86	0
+male	group D	some college	free/reduced	completed	37	75	94	0
+male	group C	some college	free/reduced	none	37	77	66	0
+male	group A	bachelor's degree	free/reduced	completed	100	35	87	0
+male	group C	bachelor's degree	free/reduced	none	37	87	43	0
+female	group A	bachelor's degree	standard	none	61	86	86	0
+male	group C	associate's degree	free/reduced	completed	82	73	36	0
+female	group A	associate's degree	standard	completed	66	62	49	1
+female	group A	bachelor's degree	standard	completed	69	80	46	0
+male	group C	bachelor's degree	free/reduced	completed	46	97	41	0
+female	group E	associate's degree	standard	completed	69	53	57	1
+female	group D	some high school	standard	none	49	39	67	1
+male	group E	bachelor's degree	standard	completed	46	78	49	0
+male	group B	master's degree	standard	completed	35	82	76	0
+male	group D	bachelor's degree	free/reduced	completed	59	98	60	0
+female	group D	some high school	free/reduced	completed	89	66	78	0
+female	group B	some high school	standard	completed	36	91	77	0
+male	group E	high school	free/reduced	none	50	64	87	0
+male	group D	high school	standard	completed	74	33	83	0
+male	group D	bachelor's degree	free/reduced	none	79	40	77	0
+male	group A	associate's degree	standard	completed	48	47	34	1
+female	group D	master's degree	standard	completed	87	30	40	0
+male	group C	some high school	standard	completed	44	66	60	1
+female	group A	high school	standard	completed	88	38	44	0
+female	group E	bachelor's degree	standard	none	48	67	84	0
+male	group E	associate's degree	standard	completed	53	40	97	0
+female	group A	bachelor's degree	standard	completed	90	35	79	0
+female	group C	master's degree	standard	completed	38	74	60	0
+male	group E	master's degree	free/reduced	none	35	75	99	0
+female	group B	master's degree	free/reduced	completed	53	47	38	1
+female	group A	associate's degree	standard	none	55	35	70	0
+female	group E	some college	free/reduced	completed	34	54	66	1
+female	group A	master's degree	free/reduced	completed	45	77	85	0
+female	group D	some college	free/reduced	none	93	93	77	0
+female	group A	master's degree	free/reduced	none	85	53	99	0
+female	group C	high school	standard	completed	67	69	87	0
+female	group B	master's degree	free/reduced	completed	87	35	75	0
+female	group C	master's degree	standard	none	81	76	95	0
+male	group A	some high school	free/reduced	none	46	38	60	1
+female	group C	some college	standard	none	87	77	77	0
+female	group A	bachelor's degree	standard	completed	80	70	65	0
+male	group A	high school	standard	completed	96	79	45	0
+female	group C	master's degree	free/reduced	none	66	92	55	0
+male	group B	high school	free/reduced	none	86	41	70	0
+female	group A	bachelor's degree	free/reduced	completed	50	52	76	0
+male	group A	some high school	standard	none	93	33	76	0
+female	group D	bachelor's degree	standard	none	38	69	80	0
+female	group E	some college	free/reduced	none	46	70	39	0
+female	group D	master's degree	free/reduced	none	100	53	46	0
+female	group E	high school	standard	none	68	51	50	1
+female	group B	associate's degree	free/reduced	none	62	55	100	0
+female	group B	master's degree	free/reduced	none	94	51	49	0
+male	group E	master's degree	free/reduced	none	33	40	35	1
+female	group B	bachelor's degree	free/reduced	none	93	99	67	0
+female	group D	some high school	free/reduced	completed	88	39	37	0
+male	group D	some college	free/reduced	completed	56	73	48	0
+female	group C	master's degree	free/reduced	completed	46	77	95	0
+male	group C	some high school	free/reduced	none	64	87	61	0
+male	group A	high school	free/reduced	completed	83	61	50	0
+female	group E	master's degree	free/reduced	none	50	93	95	0
+female	group D	associate's degree	free/reduced	none	41	80	94	0
+female	group B	some high school	free/reduced	none	36	66	93	0
+female	group C	bachelor's degree	standard	none	85	47	63	0
+female	group D	associate's degree	standard	completed	36	54	76	0
+female	group A	some college	free/reduced	completed	45	46	42	1
+female	group C	associate's degree	free/reduced	none	55	95	81	0
+male	group A	high school	standard	completed	90	96	88	0
+male	group E	bachelor's degree	standard	completed	70	50	80	0
+female	group E	associate's degree	free/reduced	completed	90	32	77	0
+female	group A	some college	free/reduced	none	90	63	59	0
+male	group E	some college	standard	completed	48	61	34	1
+male	group B	high school	free/reduced	completed	83	49	82	0
+male	group D	bachelor's degree	free/reduced	none	47	96	56	0
+female	group D	bachelor's degree	free/reduced	completed	52	88	98	0
+female	group E	associate's degree	free/reduced	completed	54	61	65	1
+female	group B	associate's degree	free/reduced	none	92	70	91	0
+female	group E	master's degree	free/reduced	completed	45	99	78	0
+female	group C	some high school	free/reduced	none	66	40	74	0
+female	group C	master's degree	free/reduced	none	55	98	64	0
+female	group B	high school	standard	none	36	97	58	0
+male	group A	high school	free/reduced	completed	90	42	47	0
+male	group E	some high school	free/reduced	completed	91	55	66	0
+female	group C	master's degree	standard	none	59	98	34	0
+male	group D	some high school	standard	completed	93	53	67	0
+male	group A	associate's degree	standard	completed	66	88	99	0
+female	group B	bachelor's degree	free/reduced	completed	54	44	72	0
+male	group D	master's degree	free/reduced	none	31	73	67	0
+male	group B	bachelor's degree	free/reduced	completed	95	71	41	0
+female	group A	some high school	standard	completed	71	61	30	0
+female	group D	some high school	free/reduced	completed	72	68	31	0
+female	group C	master's degree	standard	none	45	89	69	0
+male	group D	master's degree	free/reduced	none	67	77	58	0
+male	group B	some college	standard	completed	77	83	100	0
+female	group E	master's degree	standard	none	40	97	87	0
+female	group A	bachelor's degree	standard	none	100	94	55	0
+male	group B	associate's degree	free/reduced	none	56	92	41	0
+female	group A	some college	standard	completed	88	37	89	0
+female	group A	some college	free/reduced	none	57	39	35	1
+female	group C	master's degree	standard	none	38	90	34	0
+female	group D	some high school	standard	completed	77	78	87	0
+female	group D	high school	standard	completed	45	52	98	0
+female	group E	some high school	standard	none	32	68	89	0
+female	group E	some college	standard	none	88	74	49	0
+female	group B	master's degree	standard	none	83	32	60	0
+male	group A	high school	standard	completed	36	61	35	1
+female	group D	some high school	standard	none	47	94	67	0
+male	group E	associate's degree	free/reduced	none	68	48	96	0
+male	group D	associate's degree	free/reduced	none	52	84	93	0
+male	group C	master's degree	free/reduced	completed	83	82	49	0
+female	group D	some high school	free/reduced	none	58	68	48	1
+female	group A	bachelor's degree	free/reduced	completed	97	47	79	0
+male	group C	some high school	free/reduced	none	87	77	41	0
+male	group A	associate's degree	free/reduced	none	39	54	57	1
+female	group B	associate's degree	free/reduced	none	57	54	45	1
+female	group B	master's degree	standard	completed	60	100	71	0
+female	group D	some college	free/reduced	completed	63	76	95	0
+female	group D	high school	free/reduced	completed	56	77	70	0
+female	group A	bachelor's degree	standard	none	32	63	100	0
+female	group C	some high school	standard	completed	59	78	61	0
+female	group E	master's degree	free/reduced	completed	92	92	88	0
+male	group C	some high school	standard	completed	53	99	37	0
+male	group A	master's degree	standard	none	82	47	59	0
+male	group B	high school	standard	completed	77	37	91	0
+female	group A	high school	free/reduced	none	32	97	65	0
+female	group A	bachelor's degree	free/reduced	none	43	42	97	0
+male	group B	some high school	free/reduced	completed	64	80	40	0
+female	group D	some college	standard	none	68	40	34	1
+male	group D	some college	free/reduced	completed	37	31	51	1
+male	group D	some college	free/reduced	none	97	35	59	0
+male	group E	some college	free/reduced	none	39	65	99	0
+male	group B	associate's degree	standard	none	48	80	39	0
+female	group B	bachelor's degree	standard	completed	99	72	79	0
+male	group A	bachelor's degree	free/reduced	none	42	85	59	0
+male	group C	bachelor's degree	free/reduced	completed	33	64	87	0
+female	group B	associate's degree	free/reduced	completed	53	78	40	0
+female	group B	master's degree	standard	none	64	49	78	0
+male	group D	associate's degree	free/reduced	none	41	30	69	1
+female	group C	associate's degree	standard	none	41	53	85	0
+female	group E	bachelor's degree	free/reduced	none	33	41	75	0
+male	group E	bachelor's degree	free/reduced	completed	31	67	82	0
+female	group A	master's degree	standard	none	78	51	47	0
+female	group C	associate's degree	free/reduced	none	38	51	85	0
+female	group D	associate's degree	free/reduced	none	76	62	61	0
+female	group E	bachelor's degree	standard	completed	43	47	68	1
+male	group D	associate's degree	free/reduced	completed	86	72	85	0
+male	group C	associate's degree	standard	completed	70	52	80	0
+female	group C	master's degree	free/reduced	none	71	78	65	0
+female	group C	high school	standard	none	100	33	89	0
+male	group D	associate's degree	standard	completed	93	47	68	0
+male	group C	master's degree	standard	completed	78	39	87	0
+female	group E	some college	free/reduced	none	76	98	40	0
+male	group B	master's degree	free/reduced	none	35	81	72	0
+female	group A	high school	standard	completed	58	95	96	0
+male	group D	associate's degree	free/reduced	completed	94	49	74	0
+male	group D	high school	free/reduced	completed	40	44	48	1
+female	group C	associate's degree	free/reduced	none	96	91	74	0
+female	group A	some college	free/reduced	completed	38	68	35	1
+male	group A	associate's degree	standard	none	61	96	52	0
+male	group C	bachelor's degree	free/reduced	completed	59	81	53	0
+male	group D	some college	standard	none	87	84	79	0
+male	group B	some high school	free/reduced	none	43	98	53	0
+female	group C	some high school	free/reduced	none	63	92	97	0
+female	group E	some college	free/reduced	none	74	75	88	0
+male	group C	bachelor's degree	standard	none	70	45	60	0
+female	group A	some high school	free/reduced	none	95	79	83	0
+male	group E	some college	free/reduced	none	92	98	52	0
+male	group D	associate's degree	standard	none	70	87	36	0
+female	group A	some college	standard	none	79	94	93	0
+female	group D	some college	free/reduced	completed	51	40	33	1
+male	group C	high school	free/reduced	none	98	66	51	0
+female	group E	master's degree	free/reduced	none	44	64	99	0
+female	group E	high school	free/reduced	none	84	43	61	0
+female	group A	some college	free/reduced	completed	41	86	45	0
+male	group B	master's degree	free/reduced	completed	51	47	56	1
+male	group A	bachelor's degree	free/reduced	completed	98	51	71	0
+female	group C	bachelor's degree	free/reduced	none	47	82	37	0
+female	group B	master's degree	standard	none	48	71	61	0
+female	group D	some high school	free/reduced	completed	78	87	39	0
+male	group D	bachelor's degree	free/reduced	completed	88	92	71	0
+male	group A	master's degree	free/reduced	completed	38	98	80	0
+male	group D	some high school	free/reduced	completed	71	66	73	0
+male	group E	some college	free/reduced	none	35	42	88	0
+male	group A	some high school	free/reduced	completed	30	84	55	0
+male	group C	some high school	free/reduced	none	76	62	40	0
+female	group B	high school	free/reduced	completed	59	84	41	0
+male	group A	some high school	free/reduced	none	46	58	96	0
+female	group A	high school	free/reduced	none	84	46	91	0
+male	group B	some college	standard	none	43	70	77	0
+female	group B	some college	standard	none	38	97	31	0
+male	group D	associate's degree	standard	none	82	86	57	0
+male	group A	some high school	standard	completed	74	84	70	0
+male	group B	associate's degree	standard	none	100	66	33	0
+female	group B	bachelor's degree	standard	completed	67	36	60	1
+female	group D	high school	standard	completed	39	97	31	0
+female	group C	some high school	free/reduced	completed	76	99	52	0
+female	group A	high school	standard	none	63	57	35	1
+male	group D	bachelor's degree	free/reduced	completed	84	81	40	0
+male	group C	high school	free/reduced	none	95	56	49	0
+female	group D	bachelor's degree	standard	completed	85	60	37	0
+male	group A	some college	standard	completed	37	69	52	1
+male	group A	master's degree	standard	none	50	93	74	0
+female	group B	associate's degree	standard	completed	45	33	72	0
+female	group C	bachelor's degree	standard	completed	39	93	88	0
+female	group A	some college	standard	completed	50	62	43	1
+male	group B	master's degree	standard	none	31	61	35	1
+female	group C	some college	standard	none	34	100	83	0
+male	group C	some high school	free/reduced	completed	64	39	77	0
+male	group E	master's degree	standard	none	58	96	35	0
+female	group A	some college	free/reduced	completed	71	41	100	0
+female	group A	associate's degree	standard	completed	68	61	89	0
+female	group E	some college	standard	none	49	30	82	0
+male	group B	bachelor's degree	free/reduced	none	72	30	78	0
+female	group A	some high school	standard	completed	92	37	48	0
+female	group A	high school	standard	completed	77	88	40	0
+male	group E	some high school	free/reduced	none	37	85	46	0
+male	group C	associate's degree	free/reduced	completed	71	70	87	0
+female	group B	high school	standard	none	43	49	43	1
+male	group D	some college	free/reduced	completed	45	98	75	0
+male	group D	associate's degree	free/reduced	completed	45	41	50	1
+female	group E	high school	standard	completed	48	41	61	1
+female	group D	bachelor's degree	standard	completed	63	52	33	1
+female	group D	bachelor's degree	standard	none	89	43	47	0
+male	group A	high school	standard	none	55	81	77	0
+male	group E	bachelor's degree	free/reduced	none	32	38	55	1
+female	group B	high school	free/reduced	none	35	89	36	0
+male	group E	some college	free/reduced	completed	33	78	84	0
+male	group C	some high school	standard	completed	65	87	49	0
+male	group E	bachelor's degree	standard	completed	93	82	100	0
+female	group A	high school	free/reduced	completed	47	83	55	0
+male	group E	high school	free/reduced	completed	91	99	92	0
+female	group E	bachelor's degree	free/reduced	completed	64	53	33	1
+female	group E	some high school	standard	completed	37	90	97	0
+female	group E	some high school	standard	none	61	60	64	1
+male	group B	bachelor's degree	free/reduced	completed	52	52	60	1
+female	group C	bachelor's degree	standard	completed	48	54	93	0
+female	group B	some college	standard	none	37	59	58	1
+male	group E	some college	standard	completed	55	46	73	0
+male	group C	high school	standard	none	48	44	97	0
+female	group A	associate's degree	free/reduced	none	73	68	71	0
+male	group B	master's degree	free/reduced	completed	70	52	75	0
+male	group E	some high school	free/reduced	completed	67	46	52	1
+male	group E	some college	standard	none	70	58	43	0
+female	group B	associate's degree	standard	none	74	70	51	0
+male	group C	some college	standard	completed	56	61	38	1
+female	group C	high school	standard	none	79	86	83	0
+male	group D	some college	free/reduced	completed	99	78	42	0
+female	group E	master's degree	standard	none	87	39	34	0
+female	group A	associate's degree	free/reduced	none	39	73	51	0
+female	group B	master's degree	standard	none	73	91	33	0
+female	group B	bachelor's degree	free/reduced	none	36	42	72	0
+male	group B	some college	free/reduced	completed	68	60	42	1
+male	group D	bachelor's degree	free/reduced	none	36	76	30	0
+female	group A	associate's degree	free/reduced	none	42	33	56	1
+male	group C	high school	free/reduced	none	69	80	90	0
+female	group C	high school	free/reduced	none	77	78	77	0
+male	group D	high school	free/reduced	completed	89	63	58	0
+female	group E	high school	standard	none	40	74	99	0
+female	group E	some high school	standard	completed	96	83	98	0
+female	group E	some high school	free/reduced	completed	40	80	34	0
+male	group A	some college	standard	none	57	54	46	1
+male	group D	high school	free/reduced	none	48	63	70	0
+male	group A	some college	free/reduced	completed	65	96	88	0
+male	group E	bachelor's degree	free/reduced	none	83	49	48	0
+male	group A	bachelor's degree	standard	completed	98	74	82	0
+female	group D	master's degree	free/reduced	completed	34	52	65	1
+female	group B	bachelor's degree	free/reduced	none	80	72	60	0
+male	group D	associate's degree	free/reduced	none	73	68	69	0
+female	group D	master's degree	standard	none	47	68	86	0
+female	group C	master's degree	free/reduced	none	54	86	57	0
+female	group D	bachelor's degree	free/reduced	none	95	50	38	0
+female	group E	some college	standard	none	52	54	55	1
+male	group B	high school	free/reduced	none	76	55	65	0
+female	group D	bachelor's degree	free/reduced	none	33	60	77	0
+female	group E	some college	standard	completed	100	74	74	0
+male	group C	master's degree	standard	completed	33	79	36	0
+male	group E	some high school	standard	none	56	64	82	0
+male	group A	some college	standard	none	31	58	62	1
+female	group C	some college	free/reduced	completed	88	62	57	0
+female	group C	master's degree	free/reduced	none	30	95	77	0
+female	group C	master's degree	standard	completed	38	73	65	0
+female	group C	associate's degree	free/reduced	none	49	96	60	0
+male	group E	some college	free/reduced	none	33	93	67	0
+female	group D	some college	free/reduced	none	54	73	58	0
+female	group C	bachelor's degree	free/reduced	none	53	67	42	1
+female	group B	master's degree	free/reduced	none	72	41	58	0
+female	group B	master's degree	free/reduced	completed	72	77	63	0
+female	group D	high school	free/reduced	none	39	90	54	0
+male	group D	bachelor's degree	free/reduced	completed	36	49	47	1
+male	group C	some college	free/reduced	none	70	53	40	0
+female	group C	master's degree	standard	completed	37	30	87	0
+female	group B	some high school	standard	completed	41	46	85	0
+female	group D	some college	free/reduced	completed	30	34	98	0
+male	group C	high school	free/reduced	none	32	30	61	1
+male	group C	associate's degree	standard	none	79	94	69	0
+male	group A	high school	free/reduced	completed	88	96	97	0
+female	group D	master's degree	standard	completed	92	75	54	0
+male	group D	high school	standard	none	46	57	32	1
+male	group A	associate's degree	standard	completed	62	98	36	0
+male	group A	master's degree	standard	none	44	83	86	0
+female	group A	bachelor's degree	free/reduced	completed	49	56	31	1
+female	group D	master's degree	standard	completed	47	83	43	0
+male	group C	high school	standard	completed	55	55	63	1
+male	group C	master's degree	free/reduced	completed	50	35	100	0
+female	group B	master's degree	free/reduced	completed	60	30	31	1
+male	group A	bachelor's degree	free/reduced	none	41	95	39	0
+male	group C	master's degree	standard	completed	67	63	89	0
+male	group A	some high school	standard	completed	76	70	84	0
+male	group A	high school	standard	none	51	72	75	0
+female	group E	associate's degree	standard	completed	73	53	44	0
+female	group D	some college	free/reduced	completed	91	83	51	0
+male	group B	master's degree	standard	none	43	83	91	0
+female	group B	bachelor's degree	free/reduced	completed	33	46	91	0
+female	group A	some college	free/reduced	none	38	63	70	0
+male	group E	master's degree	standard	completed	96	96	42	0
+female	group B	some college	free/reduced	completed	49	36	31	1
+male	group E	some college	free/reduced	none	39	92	71	0
+male	group C	associate's degree	standard	none	100	78	81	0
+male	group A	some college	free/reduced	completed	41	93	87	0
+female	group A	some college	standard	none	81	82	34	0
+male	group A	bachelor's degree	free/reduced	none	88	73	76	0
+male	group B	some college	free/reduced	completed	76	87	44	0
+male	group B	high school	free/reduced	completed	67	100	96	0
+female	group A	high school	standard	completed	47	82	43	0
+female	group E	some high school	standard	none	80	57	88	0
+male	group C	high school	free/reduced	none	45	87	88	0
+male	group D	high school	standard	completed	91	95	52	0
+male	group B	high school	free/reduced	completed	94	79	83	0
+male	group C	some college	free/reduced	completed	87	47	47	0
+female	group E	master's degree	free/reduced	completed	100	57	55	0
+male	group E	master's degree	free/reduced	completed	46	52	94	0
+female	group A	associate's degree	free/reduced	completed	98	66	84	0
+male	group E	high school	standard	completed	48	36	37	1
+male	group C	some high school	free/reduced	completed	48	37	67	1
+male	group E	high school	free/reduced	completed	43	58	79	0
+male	group E	master's degree	free/reduced	none	78	79	83	0
+female	group E	high school	standard	completed	55	86	58	0
+female	group E	bachelor's degree	standard	none	67	87	52	0
+male	group B	some high school	standard	completed	35	84	65	0
+female	group B	some high school	free/reduced	none	72	89	49	0
+male	group B	associate's degree	standard	completed	92	100	75	0
+male	group C	bachelor's degree	standard	none	96	38	94	0
+male	group D	bachelor's degree	free/reduced	none	74	58	57	0
+female	group C	associate's degree	free/reduced	none	97	90	31	0
+male	group C	some college	standard	none	35	71	78	0
+male	group D	associate's degree	free/reduced	none	96	77	95	0
+female	group D	high school	free/reduced	none	71	95	40	0
+male	group B	bachelor's degree	standard	none	56	57	84	0
+male	group B	bachelor's degree	free/reduced	none	49	33	88	0
+female	group A	high school	standard	none	52	62	39	1
+male	group C	some college	free/reduced	completed	81	85	70	0
+male	group D	master's degree	standard	none	38	35	39	1
+female	group E	high school	free/reduced	completed	41	66	86	0
+female	group D	master's degree	standard	completed	50	98	58	0
+male	group D	bachelor's degree	free/reduced	none	68	77	31	0
+male	group A	high school	standard	completed	98	100	40	0
+female	group B	master's degree	free/reduced	none	82	95	48	0
+male	group B	some high school	free/reduced	none	44	53	36	1
+female	group E	high school	free/reduced	none	62	42	55	1
+female	group C	associate's degree	standard	none	42	66	38	1
+male	group C	some college	free/reduced	completed	69	49	76	0
+female	group D	some high school	standard	completed	61	58	85	0
+female	group C	some high school	free/reduced	completed	89	87	75	0
+female	group D	bachelor's degree	standard	none	40	65	47	1
+male	group C	master's degree	standard	none	32	94	33	0
+female	group E	some high school	standard	completed	99	99	90	0
+male	group C	some college	standard	completed	47	89	94	0
+male	group D	associate's degree	standard	none	51	95	47	0
+female	group B	some high school	standard	completed	75	35	58	0
+female	group B	high school	free/reduced	completed	59	35	56	1
+female	group D	some college	free/reduced	none	35	71	43	0
+female	group C	bachelor's degree	standard	completed	78	76	39	0
+female	group D	some high school	free/reduced	completed	74	92	91	0
+male	group E	some high school	free/reduced	none	59	39	95	0
+female	group B	some high school	standard	none	76	45	59	0
+female	group C	master's degree	standard	completed	91	91	56	0
+male	group D	high school	standard	none	46	50	47	1
+male	group E	some high school	standard	none	63	53	96	0
+female	group E	bachelor's degree	standard	completed	40	57	87	0
+female	group D	some high school	standard	completed	48	53	95	0
+female	group B	master's degree	free/reduced	completed	38	59	78	0
+female	group B	high school	standard	none	96	94	83	0
+male	group E	high school	standard	completed	34	98	94	0
+male	group A	some college	standard	none	85	96	83	0
+female	group A	master's degree	free/reduced	none	91	78	74	0
+male	group D	some high school	free/reduced	completed	59	40	66	1
+female	group C	some high school	standard	none	96	45	96	0
+male	group D	master's degree	standard	completed	82	76	43	0
+male	group D	master's degree	free/reduced	completed	98	84	76	0
+female	group D	some high school	free/reduced	completed	52	77	91	0
+female	group C	bachelor's degree	free/reduced	completed	47	45	59	1
+female	group B	high school	standard	completed	73	100	36	0
+male	group D	master's degree	standard	none	48	90	85	0
+male	group A	associate's degree	standard	completed	40	34	79	0
+female	group E	master's degree	free/reduced	none	52	93	86	0
+male	group B	master's degree	free/reduced	none	34	95	96	0
+male	group E	some high school	standard	completed	60	30	50	1
+male	group C	some college	free/reduced	completed	81	55	96	0
+male	group A	high school	free/reduced	completed	74	65	58	0
+male	group D	some college	standard	completed	52	82	94	0
+male	group E	high school	free/reduced	completed	44	95	62	0
+female	group D	some college	free/reduced	none	73	88	88	0
+male	group D	high school	free/reduced	none	78	58	59	0
+female	group D	associate's degree	standard	completed	61	66	41	1
+female	group C	high school	standard	completed	70	75	57	0
+female	group B	master's degree	standard	completed	55	60	60	1
+female	group B	some high school	standard	none	75	49	43	0
+male	group A	master's degree	free/reduced	none	99	35	91	0
+female	group E	associate's degree	free/reduced	completed	92	53	95	0
+female	group D	some high school	standard	none	97	84	91	0
+male	group E	associate's degree	free/reduced	none	88	45	96	0
+female	group C	master's degree	standard	none	56	78	42	0
+female	group C	bachelor's degree	free/reduced	none	100	63	60	0
+female	group D	bachelor's degree	free/reduced	completed	53	93	84	0
+male	group D	master's degree	free/reduced	completed	81	65	87	0
+male	group E	some high school	standard	none	64	60	85	0
+female	group B	some high school	standard	completed	31	52	83	0
+female	group B	master's degree	free/reduced	completed	68	62	36	1
+female	group A	master's degree	standard	none	57	62	90	0
+male	group D	master's degree	free/reduced	completed	76	76	62	0
+female	group A	some college	standard	completed	55	98	52	0
+female	group C	associate's degree	free/reduced	completed	40	78	66	0
+female	group B	some high school	free/reduced	completed	81	39	40	0
+male	group C	some high school	free/reduced	completed	67	64	80	0
+female	group D	associate's degree	free/reduced	completed	51	53	32	1
+male	group B	master's degree	free/reduced	none	56	51	80	0
+male	group A	high school	free/reduced	none	33	80	97	0
+male	group A	associate's degree	standard	none	79	69	59	0
+male	group C	some college	standard	none	97	51	33	0
+male	group C	associate's degree	free/reduced	completed	99	64	100	0
+female	group B	master's degree	standard	completed	85	97	98	0
+female	group C	some college	standard	none	86	69	76	0
+female	group C	some high school	free/reduced	none	30	96	47	0
+female	group C	some college	standard	completed	91	68	31	0
+female	group C	bachelor's degree	standard	none	100	77	54	0
+female	group E	some college	free/reduced	none	50	79	78	0
+male	group C	high school	free/reduced	none	96	64	66	0
+female	group D	some high school	standard	none	47	67	44	1
+female	group E	some college	free/reduced	completed	54	71	32	0
+male	group A	bachelor's degree	standard	none	43	66	64	1
+male	group D	master's degree	standard	none	41	49	31	1
+female	group B	associate's degree	free/reduced	completed	93	77	89	0
+male	group C	high school	standard	none	64	80	39	0
+female	group B	some high school	free/reduced	completed	31	45	61	1
+female	group D	some high school	standard	none	88	42	96	0
+male	group D	some college	free/reduced	completed	50	35	100	0
+male	group C	some college	free/reduced	none	76	36	57	0
+male	group B	master's degree	free/reduced	completed	31	51	65	1
+male	group D	some high school	standard	none	90	49	77	0
+male	group B	some high school	free/reduced	none	73	37	37	0
+female	group B	master's degree	standard	none	92	59	70	0
+female	group D	master's degree	standard	none	78	75	47	0
+female	group A	some college	free/reduced	completed	99	92	54	0
+male	group E	associate's degree	free/reduced	completed	65	100	50	0
+male	group E	some high school	free/reduced	completed	63	99	76	0
+female	group A	master's degree	free/reduced	none	32	76	60	0
+female	group A	master's degree	free/reduced	none	97	93	100	0
+male	group E	associate's degree	free/reduced	completed	71	44	42	0
+male	group A	some high school	standard	none	55	43	92	0
+male	group A	high school	free/reduced	completed	97	62	36	0
+female	group B	bachelor's degree	standard	none	56	92	40	0
+female	group A	associate's degree	free/reduced	completed	37	64	97	0
+male	group A	associate's degree	standard	none	96	42	42	0
+male	group E	some college	standard	none	97	61	52	0
+female	group A	master's degree	free/reduced	completed	84	43	51	0
+male	group E	some college	free/reduced	none	98	86	75	0
+female	group E	associate's degree	free/reduced	completed	85	71	60	0
+male	group D	bachelor's degree	free/reduced	completed	87	87	80	0
+male	group A	associate's degree	standard	none	68	30	68	1
+male	group B	associate's degree	standard	completed	100	95	49	0
+male	group A	some college	free/reduced	none	47	63	76	0
+male	group B	associate's degree	free/reduced	none	81	57	39	0
+female	group D	some high school	free/reduced	none	68	34	78	0
+male	group A	associate's degree	free/reduced	completed	83	45	59	0
+male	group D	high school	free/reduced	none	70	99	49	0
+female	group E	master's degree	standard	none	36	80	87	0
+male	group B	some college	free/reduced	completed	48	46	73	0
+male	group D	bachelor's degree	standard	completed	63	40	81	0
+female	group B	some high school	free/reduced	none	92	80	55	0
+male	group B	high school	free/reduced	completed	71	41	44	0
+female	group D	associate's degree	free/reduced	none	71	74	33	0
+female	group B	associate's degree	free/reduced	none	86	35	59	0
+male	group C	some high school	standard	none	36	61	48	1
+female	group A	associate's degree	standard	completed	87	90	32	0
+female	group B	master's degree	standard	none	99	96	63	0
+female	group E	master's degree	standard	none	78	97	35	0
+female	group B	high school	free/reduced	none	64	36	89	0
+male	group A	some college	free/reduced	completed	43	32	67	1
+female	group B	some college	standard	completed	92	98	41	0
+male	group B	bachelor's degree	free/reduced	none	35	61	97	0
+female	group C	some college	free/reduced	none	32	74	75	0
+female	group C	some high school	free/reduced	none	62	79	33	0
+female	group B	some high school	free/reduced	completed	47	41	78	0
+male	group D	some high school	standard	completed	69	72	87	0
+male	group B	master's degree	standard	none	47	69	97	0
+male	group D	some high school	standard	completed	38	98	45	0
+male	group C	some high school	standard	completed	82	82	68	0
+female	group C	some high school	standard	none	46	53	33	1
+female	group E	bachelor's degree	standard	none	59	33	75	0
+male	group D	some high school	free/reduced	completed	53	79	92	0
+female	group B	some high school	standard	none	34	82	31	0
+female	group D	some high school	standard	none	38	52	86	0
+female	group C	some college	standard	completed	81	35	78	0
+female	group D	bachelor's degree	standard	none	87	88	35	0
+male	group E	bachelor's degree	free/reduced	none	79	96	36	0
+male	group C	some college	free/reduced	completed	66	89	51	0
+female	group C	bachelor's degree	standard	none	89	87	41	0
+male	group B	bachelor's degree	standard	completed	82	71	87	0
+male	group B	some college	standard	completed	41	62	71	0
+male	group A	high school	standard	completed	76	40	97	0
+female	group E	bachelor's degree	standard	completed	100	78	35	0
+male	group C	bachelor's degree	standard	none	48	52	36	1
+female	group C	associate's degree	free/reduced	completed	53	45	46	1
+male	group A	bachelor's degree	free/reduced	none	88	93	93	0
+male	group E	some college	standard	none	90	88	82	0
+female	group A	bachelor's degree	standard	none	100	65	56	0
+male	group B	some high school	standard	completed	34	48	34	1
+female	group C	high school	standard	none	83	52	50	0
+female	group E	master's degree	standard	completed	76	34	41	0
+female	group C	associate's degree	free/reduced	none	84	100	38	0
+female	group D	some high school	standard	completed	72	97	82	0
+male	group B	bachelor's degree	standard	none	97	41	91	0
+female	group D	bachelor's degree	free/reduced	completed	97	75	46	0
+female	group E	master's degree	free/reduced	completed	53	59	67	1
+male	group A	high school	standard	completed	45	56	83	0
+female	group A	associate's degree	free/reduced	none	31	55	66	1
+female	group A	associate's degree	free/reduced	completed	30	44	72	0
+female	group D	master's degree	standard	none	54	72	73	0
+female	group D	high school	standard	completed	49	88	98	0
+female	group D	some college	standard	completed	70	98	32	0
+male	group E	master's degree	free/reduced	completed	38	49	65	1
+male	group C	some college	standard	completed	53	44	69	1
+female	group A	associate's degree	free/reduced	none	93	60	77	0
+female	group C	some high school	free/reduced	none	44	77	34	0
+male	group A	some college	standard	completed	94	49	54	0
+female	group D	master's degree	free/reduced	completed	48	42	96	0
+male	group B	master's degree	standard	completed	79	96	44	0
+male	group C	high school	standard	completed	89	35	43	0
+female	group A	bachelor's degree	free/reduced	none	71	55	54	0
+female	group C	bachelor's degree	free/reduced	completed	45	64	49	1
+male	group C	high school	standard	none	56	99	74	0
+female	group C	some high school	free/reduced	none	51	39	69	1
+female	group E	some college	standard	none	33	90	36	0
+male	group D	high school	standard	completed	80	52	87	0
+female	group C	associate's degree	standard	none	89	46	41	0
+female	group A	some college	free/reduced	completed	90	59	58	0
+male	group E	associate's degree	free/reduced	completed	53	72	71	0
+female	group D	high school	standard	completed	44	74	91	0
+female	group B	associate's degree	free/reduced	none	95	43	81	0
+male	group C	bachelor's degree	standard	completed	98	89	81	0
+female	group B	bachelor's degree	standard	none	91	79	38	0
+female	group B	master's degree	free/reduced	completed	73	99	60	0
+male	group A	master's degree	free/reduced	none	89	71	42	0
+female	group B	associate's degree	free/reduced	none	43	78	71	0
+female	group A	high school	standard	none	30	48	49	1
+female	group E	associate's degree	free/reduced	completed	55	56	70	0
+female	group E	master's degree	free/reduced	completed	74	41	31	0
+female	group B	associate's degree	standard	completed	100	36	30	0
+female	group A	associate's degree	standard	none	85	80	70	0
+female	group D	some college	free/reduced	none	52	90	47	0
+male	group E	some college	free/reduced	completed	49	66	46	1
+male	group A	high school	standard	none	92	85	47	0
+male	group B	master's degree	free/reduced	completed	84	53	88	0
+female	group E	some college	free/reduced	completed	58	53	84	0
+male	group E	some college	standard	completed	82	99	76	0
+male	group A	bachelor's degree	free/reduced	completed	44	91	40	0
+male	group E	associate's degree	free/reduced	none	96	41	61	0
+female	group A	master's degree	free/reduced	none	73	98	31	0
+female	group D	bachelor's degree	free/reduced	completed	83	75	67	0
+female	group B	high school	free/reduced	completed	37	90	51	0
+male	group C	master's degree	standard	completed	92	40	46	0
+male	group C	associate's degree	standard	completed	65	62	31	1
+male	group E	some high school	standard	completed	77	52	63	0
+male	group D	some high school	standard	completed	40	48	49	1
+female	group D	some college	standard	completed	51	56	74	0
+male	group C	high school	standard	none	89	81	90	0
+female	group D	master's degree	standard	completed	79	90	63	0
+male	group E	some college	standard	completed	87	78	70	0
+male	group A	bachelor's degree	free/reduced	completed	64	72	64	0
+female	group A	associate's degree	free/reduced	completed	60	54	96	0
+female	group B	associate's degree	standard	none	38	31	82	0
+male	group E	high school	free/reduced	completed	58	66	62	1
+male	group A	high school	standard	none	57	45	45	1
+male	group E	some high school	free/reduced	none	44	53	62	1
+female	group D	master's degree	standard	completed	65	84	71	0
+female	group B	high school	free/reduced	none	78	79	72	0
+male	group C	associate's degree	standard	completed	38	92	55	0
+female	group B	master's degree	free/reduced	none	48	99	85	0
+male	group E	master's degree	standard	completed	63	43	34	1
+male	group A	bachelor's degree	free/reduced	completed	32	93	49	0
+male	group A	master's degree	free/reduced	completed	49	72	80	0
+male	group E	master's degree	free/reduced	completed	85	81	38	0
+male	group A	some college	free/reduced	none	98	75	72	0
+female	group D	high school	standard	completed	98	73	40	0
+female	group C	master's degree	standard	none	100	35	79	0
+male	group C	master's degree	free/reduced	none	75	92	40	0
+female	group B	some high school	standard	none	33	60	92	0
+female	group A	bachelor's degree	free/reduced	completed	98	87	32	0
+male	group C	high school	free/reduced	none	81	45	57	0
+female	group E	some high school	standard	none	34	48	92	0
+male	group D	bachelor's degree	standard	none	46	31	52	1
+male	group C	high school	free/reduced	none	38	43	44	1
+female	group E	bachelor's degree	standard	none	55	84	73	0
+female	group C	high school	standard	completed	57	35	52	1
+female	group A	high school	free/reduced	none	83	51	77	0
+male	group D	some high school	standard	none	42	78	50	0
+male	group D	high school	standard	none	52	41	66	1
+female	group D	master's degree	standard	none	48	64	96	0
+female	group D	some high school	standard	none	53	93	41	0
+female	group C	some college	standard	none	54	45	97	0
+male	group E	associate's degree	standard	completed	56	65	36	1
+male	group A	some high school	free/reduced	completed	52	50	35	1
+male	group C	associate's degree	standard	completed	62	72	88	0
+male	group A	master's degree	standard	none	50	33	92	0
+male	group A	some high school	free/reduced	completed	83	55	71	0
+male	group A	associate's degree	standard	none	60	82	55	0
+female	group B	high school	free/reduced	completed	36	85	48	0
+male	group E	some college	standard	completed	77	47	88	0
+male	group C	associate's degree	standard	completed	46	34	37	1
+female	group B	high school	free/reduced	completed	83	51	73	0
+male	group C	bachelor's degree	standard	none	100	59	41	0
+female	group E	some college	standard	completed	89	65	31	0
+female	group B	some high school	free/reduced	completed	58	49	30	1
+female	group A	high school	free/reduced	none	84	97	80	0
+female	group A	some college	free/reduced	none	40	31	82	0
+male	group B	associate's degree	free/reduced	none	41	32	91	0
+female	group B	master's degree	free/reduced	none	88	89	47	0
+female	group B	associate's degree	free/reduced	none	39	79	72	0
+male	group C	some college	free/reduced	none	40	72	37	0
+female	group A	high school	free/reduced	completed	89	35	76	0
+female	group B	master's degree	standard	none	47	72	60	0
+male	group D	master's degree	standard	none	71	75	64	0
+female	group C	high school	standard	completed	74	87	92	0
+male	group D	master's degree	free/reduced	completed	77	38	54	0
+female	group A	high school	free/reduced	none	66	39	43	1
+male	group C	high school	standard	completed	49	56	96	0
+male	group C	some college	standard	completed	74	83	86	0
+male	group C	some high school	standard	none	59	96	72	0
+female	group E	associate's degree	free/reduced	completed	97	100	86	0
+female	group C	bachelor's degree	standard	completed	51	63	59	1
+female	group C	associate's degree	standard	none	75	66	88	0
+male	group E	some high school	free/reduced	none	52	49	50	1
+male	group A	high school	free/reduced	none	86	63	77	0
+male	group B	bachelor's degree	standard	completed	74	48	77	0
+female	group E	some high school	free/reduced	none	33	81	93	0
+male	group D	associate's degree	standard	none	99	94	72	0
+female	group D	associate's degree	standard	completed	73	44	91	0
+male	group B	master's degree	standard	completed	33	81	58	0
+female	group C	high school	free/reduced	none	54	97	58	0
+female	group B	high school	standard	completed	41	95	80	0
+male	group D	associate's degree	standard	completed	80	48	84	0
+female	group D	associate's degree	standard	completed	74	74	69	0
+female	group E	high school	standard	completed	83	86	66	0
+male	group D	master's degree	free/reduced	none	41	48	56	1
+female	group D	bachelor's degree	free/reduced	none	78	41	30	0
+female	group C	some college	standard	completed	47	55	53	1
+female	group C	bachelor's degree	free/reduced	none	68	68	93	0
+female	group B	high school	standard	none	63	68	90	0
+male	group C	some college	standard	completed	61	33	45	1
+female	group D	high school	free/reduced	completed	85	63	90	0
+male	group C	bachelor's degree	standard	completed	50	37	48	1
+female	group D	master's degree	standard	completed	50	36	64	1
+female	group D	master's degree	free/reduced	none	67	67	97	0
+male	group E	some high school	standard	none	51	99	71	0
+female	group C	associate's degree	free/reduced	none	98	75	48	0
+male	group B	bachelor's degree	free/reduced	completed	92	82	73	0
+male	group A	some high school	standard	none	54	97	98	0
+male	group D	some college	standard	none	46	32	91	0
+female	group C	master's degree	free/reduced	none	86	96	73	0
+male	group C	high school	standard	none	46	48	59	1
+female	group B	some high school	standard	none	84	44	39	0
+male	group D	some college	standard	none	43	34	95	0
+male	group D	high school	free/reduced	none	38	68	31	1
+male	group A	bachelor's degree	standard	none	53	74	33	0
+male	group B	master's degree	free/reduced	completed	75	50	94	0
+male	group E	bachelor's degree	standard	none	31	97	57	0
+male	group C	some high school	standard	none	57	94	90	0
+female	group E	some high school	free/reduced	none	53	75	78	0
+female	group B	bachelor's degree	standard	completed	44	70	45	0
+female	group A	bachelor's degree	standard	completed	76	66	35	0
+male	group C	some college	standard	completed	66	88	69	0
+female	group B	bachelor's degree	free/reduced	completed	84	54	38	0
+female	group C	some high school	standard	completed	43	80	86	0
+male	group A	some high school	free/reduced	completed	43	51	38	1
+female	group B	associate's degree	standard	completed	45	59	84	0
+female	group C	master's degree	free/reduced	completed	75	90	81	0
+female	group E	associate's degree	standard	completed	43	45	62	1
+female	group D	some high school	standard	none	42	36	38	1
+female	group A	some high school	free/reduced	completed	49	68	42	1
+male	group E	some college	free/reduced	none	67	93	92	0
+female	group E	associate's degree	standard	none	85	45	79	0
+female	group C	some college	free/reduced	completed	34	34	52	1
+female	group B	some college	free/reduced	none	69	79	92	0
+male	group E	master's degree	free/reduced	completed	90	50	94	0
+male	group D	associate's degree	free/reduced	completed	75	66	71	0
+male	group A	bachelor's degree	standard	none	76	74	33	0
+female	group D	high school	free/reduced	completed	75	82	74	0
+male	group B	some high school	standard	completed	40	38	69	1
+male	group C	some high school	standard	completed	34	88	84	0
+female	group C	high school	free/reduced	none	70	78	79	0
+female	group E	high school	free/reduced	none	56	73	93	0
+female	group B	bachelor's degree	free/reduced	completed	85	55	93	0
+male	group E	some high school	free/reduced	completed	36	68	81	0
+male	group E	master's degree	standard	none	73	64	38	0
+female	group D	some high school	free/reduced	none	68	94	68	0
+female	group E	associate's degree	standard	completed	81	62	95	0
+female	group E	some high school	standard	none	93	57	89	0
+female	group E	bachelor's degree	free/reduced	none	96	55	76	0
+female	group B	some high school	standard	completed	85	82	70	0
+male	group B	some college	free/reduced	completed	50	62	60	1
+female	group B	high school	standard	none	33	61	69	1
+female	group D	bachelor's degree	free/reduced	completed	34	55	50	1
+female	group B	high school	free/reduced	completed	100	52	35	0
+female	group A	high school	standard	completed	68	38	82	0
+female	group A	some college	standard	none	44	94	45	0
+female	group D	high school	standard	none	70	72	79	0
+male	group D	some high school	standard	none	52	57	65	1
+female	group D	associate's degree	standard	completed	98	77	44	0
+female	group E	some college	free/reduced	none	65	48	76	0
+female	group C	associate's degree	standard	none	36	60	62	1
+female	group C	master's degree	free/reduced	none	98	60	86	0
+female	group A	some college	free/reduced	completed	41	60	68	1
+male	group B	some college	free/reduced	completed	34	65	40	1
+female	group D	master's degree	free/reduced	completed	84	42	50	0
+female	group E	high school	free/reduced	completed	100	71	88	0
+male	group A	master's degree	standard	completed	47	30	81	0
+male	group C	associate's degree	standard	none	50	61	96	0
+male	group E	master's degree	free/reduced	completed	87	91	47	0
+female	group B	master's degree	free/reduced	completed	55	40	83	0
+female	group B	some college	free/reduced	none	32	32	59	1
+male	group D	some high school	free/reduced	none	36	81	84	0
+female	group B	high school	free/reduced	none	45	31	97	0
+female	group D	master's degree	free/reduced	none	58	56	54	1
+female	group C	master's degree	free/reduced	completed	46	85	56	0
+male	group C	master's degree	standard	completed	53	82	48	0
+male	group C	associate's degree	standard	completed	61	77	88	0
+male	group A	some college	standard	completed	80	57	79	0
+female	group E	associate's degree	standard	none	37	36	72	0
+male	group D	associate's degree	standard	none	62	94	78	0
+female	group D	master's degree	free/reduced	none	35	52	63	1
+male	group E	some college	free/reduced	completed	46	41	70	0
+female	group B	associate's degree	standard	completed	35	46	93	0
+female	group C	some college	free/reduced	completed	63	96	70	0
+female	group B	associate's degree	free/reduced	none	86	36	54	0
+male	group A	some high school	standard	none	90	63	50	0
+female	group D	high school	free/reduced	none	86	75	92	0
+female	group D	high school	standard	none	74	41	56	0
+female	group B	some high school	free/reduced	none	30	97	53	0
+female	group A	some high school	free/reduced	none	72	33	66	0
+male	group D	associate's degree	standard	completed	49	33	40	1
+female	group D	some college	free/reduced	none	72	35	87	0
+female	group E	some high school	standard	none	66	71	37	0
+male	group E	bachelor's degree	free/reduced	none	81	62	52	0
+male	group D	high school	standard	none	50	79	81	0
+female	group B	high school	free/reduced	completed	85	69	46	0
+female	group A	associate's degree	standard	completed	87	79	90	0
+female	group E	bachelor's degree	free/reduced	none	84	77	53	0
+female	group D	high school	standard	completed	89	58	49	0
+female	group E	master's degree	standard	completed	89	85	40	0
+female	group C	some high school	standard	completed	61	96	84	0
+female	group E	high school	standard	none	95	43	95	0
+female	group D	high school	free/reduced	completed	75	62	40	0
+male	group A	master's degree	free/reduced	none	53	80	35	0
+male	group D	master's degree	free/reduced	completed	88	87	63	0
+female	group B	some high school	standard	none	63	43	85	0
+male	group A	some college	standard	none	51	91	88	0
+female	group E	master's degree	free/reduced	completed	76	80	68	0
+male	group B	some high school	standard	none	44	32	54	1
+male	group B	some college	standard	none	85	98	54	0
+male	group C	some college	standard	completed	84	32	44	0
+male	group B	master's degree	free/reduced	completed	90	32	87	0
+male	group B	associate's degree	free/reduced	none	72	31	43	0
+female	group D	some college	free/reduced	none	92	81	92	0
+female	group B	master's degree	standard	none	84	70	100	0
+male	group C	master's degree	free/reduced	completed	44	93	74	0
+female	group D	high school	standard	completed	54	90	74	0
+female	group B	bachelor's degree	standard	completed	89	46	67	0
+female	group D	master's degree	free/reduced	completed	50	56	66	1
+male	group D	some high school	standard	none	50	92	42	0
+female	group D	associate's degree	standard	none	36	32	75	0
+female	group C	master's degree	standard	none	94	34	38	0
+female	group D	high school	standard	none	58	92	63	0
+female	group C	high school	free/reduced	none	95	43	36	0
+female	group D	high school	standard	none	35	94	43	0
+male	group A	some high school	free/reduced	none	67	86	94	0
+female	group A	some high school	free/reduced	completed	47	45	55	1
+female	group D	high school	standard	completed	73	66	94	0
+male	group A	associate's degree	free/reduced	completed	76	61	49	0
+female	group B	some high school	free/reduced	completed	82	88	96	0
+female	group A	some college	standard	none	96	38	40	0
+female	group C	some college	standard	completed	37	80	34	0
+male	group E	high school	free/reduced	completed	81	100	68	0
+female	group C	high school	free/reduced	none	81	87	56	0
+female	group C	master's degree	free/reduced	none	68	40	34	1
+female	group D	master's degree	standard	completed	57	41	95	0
+female	group E	associate's degree	standard	none	33	99	63	0
+male	group C	master's degree	free/reduced	none	37	77	63	0
+female	group A	high school	standard	completed	68	30	88	0
+female	group B	master's degree	standard	completed	68	66	47	1
+female	group E	master's degree	standard	none	71	96	54	0
+female	group D	high school	standard	completed	82	40	41	0
+male	group D	some high school	free/reduced	none	87	39	77	0
+female	group E	bachelor's degree	free/reduced	completed	93	84	86	0
+female	group D	some high school	standard	none	92	88	46	0
+male	group B	some college	free/reduced	none	50	77	45	0
+female	group A	high school	free/reduced	completed	35	96	49	0
+male	group C	associate's degree	free/reduced	completed	67	92	33	0
+male	group B	bachelor's degree	free/reduced	none	69	66	57	1
+male	group D	high school	standard	completed	38	35	83	0
+female	group E	associate's degree	free/reduced	completed	78	90	46	0
+male	group E	master's degree	free/reduced	completed	87	49	71	0
+male	group E	master's degree	free/reduced	completed	59	80	73	0
+male	group D	master's degree	free/reduced	none	51	33	69	1
+male	group E	high school	standard	none	96	54	90	0
+male	group A	master's degree	standard	none	65	56	61	1
+female	group A	bachelor's degree	free/reduced	completed	35	92	32	0
+female	group D	some high school	free/reduced	none	97	70	78	0
+female	group A	high school	standard	none	66	48	53	1
+female	group A	some high school	free/reduced	completed	51	37	71	0
+male	group A	master's degree	standard	completed	79	42	70	0
+male	group D	associate's degree	free/reduced	completed	45	36	55	1
+male	group E	bachelor's degree	standard	completed	95	94	79	0
+male	group C	high school	free/reduced	completed	100	82	38	0
+female	group A	some college	standard	none	64	100	42	0
+male	group E	master's degree	standard	completed	82	87	40	0
+male	group B	associate's degree	standard	none	98	84	87	0
+male	group A	some college	free/reduced	none	30	37	91	0
+female	group E	associate's degree	free/reduced	completed	57	95	66	0
+male	group B	master's degree	standard	completed	41	80	45	0
+male	group E	associate's degree	free/reduced	none	94	70	73	0
+female	group D	associate's degree	standard	completed	73	56	88	0
